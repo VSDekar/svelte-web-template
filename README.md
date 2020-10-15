@@ -14,5 +14,5 @@ npm install
 ## Companion Repositories
 
 - [Svelte Component Template](https://github.com/VSDekar/svelte-component-template) For creating your custom component Library
-- // TODO Svelte Web Template
+- [Svelte Electron Template](https://github.com/VSDekar/svelte-electron-template)
 - [Svelte Move](https://github.com/VSDekar/svelte-move) Another svelte-router. Can be used in hash or history mode
